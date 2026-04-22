@@ -4,7 +4,7 @@ SMODS.Stake({
     colour = HEX("FC46AA"),
     above_stake = "stake_white",
     applied_stakes = { "stake_white" },
-    pos = { x = 3, y = 3 },
+    pos = { x = 4, y = 1 },
     prefix_config = {
         above_stake = { mod = false },
         applied_stakes = { mod = false }
