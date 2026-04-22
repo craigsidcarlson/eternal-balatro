@@ -2,11 +2,11 @@
   "title": "Eternal Stake",
   "requires-steamodded": true,
   "requires-talisman": false,
-  "categories": ["Content"],
+  "categories": ["Content", "Miscellaneous"],
   "author": "Craigums",
   "repo": "https://github.com/craigsidcarlson/eternal-balatro",
   "downloadURL": "https://github.com/craigsidcarlson/eternal-balatro/archive/refs/heads/main.zip",
-  "folderName": "Enternal",
+  "folderName": "EnternalStake",
   "version": "1.0.10",
   "automatic-version-check": true
 }
