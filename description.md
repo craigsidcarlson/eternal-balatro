@@ -1,6 +1,4 @@
-A minimal Balatro mod to add a new stake to the game.
-
-New Eternal stake is auto unlocked, and is the white stake with eternal jokers.
+A minimal Balatro mod to add a new white stake but with eternals.
 
 Have fun 
 
